@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+# test positional parameter
+#
+echo '$*' : $*
+echo '$#' : $#
+echo '$@' : $@
+echo $1 $2 $3 "$*"
+set --

@@ -1,0 +1,10 @@
+#!/usr/bin/bash
+#
+# test for loop
+# 
+
+for person in $*
+do
+	echo "Hi, $person"
+done
+
