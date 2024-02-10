@@ -1,2 +1,3 @@
 # UnixProgramming
-- 2023-2학기 전공
+- 2023-2
+- A+
